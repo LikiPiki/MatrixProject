@@ -7,6 +7,8 @@ import java.util.Arrays;
 
 /**
  * Created by sergey on 01.02.16.
+ * TODO
+ * сделать каркасную модель
  */
 public class Main {
 
